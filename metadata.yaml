@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/880
     wikipedia: http://en.wikipedia.org/wiki/Booker_T._Washington
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45125#The-Story-of-Slavery
 gutenberg_issued: '2014-03-13'
 gutenberg_type: Text
 identifiers:
