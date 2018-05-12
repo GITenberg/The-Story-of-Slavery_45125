@@ -1,0 +1,37 @@
+_repo: The-Story-of-Slavery_45125
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Scott, Emmett J. (Emmett Jay)
+    birthdate: 1873
+    deathdate: 1957
+    gutenberg_agent_id: '26631'
+    url: http://www.gutenberg.org/2009/agents/26631
+    wikipedia: https://en.wikipedia.org/wiki/Emmett_Jay_Scott
+covers:
+- cover_type: archival
+  image_path: 45125-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Washington, Booker T.
+    alias: Washington, Booker Taliaferro
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '880'
+    url: http://www.gutenberg.org/2009/agents/880
+    wikipedia: http://en.wikipedia.org/wiki/Booker_T._Washington
+description: ''
+gutenberg_issued: '2014-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45125'
+  lccn: '13025965'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- United States'
+- !lcc 'E300'
+title: The Story of Slavery
+url: http://www.gutenberg.org/ebooks/45125
